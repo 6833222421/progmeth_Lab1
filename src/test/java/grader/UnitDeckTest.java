@@ -1,4 +1,4 @@
-package test.grader;
+package grader;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
